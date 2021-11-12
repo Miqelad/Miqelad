@@ -20,7 +20,7 @@ public class Rega {
     }
 
     public static boolean sameLetterPattern(String s1, String s2) {
-        Pattern pattern = Pattern.compile("[A-E]+");
+        Pattern pattern = Pattern.compile("[A-D]+");
         Matcher matcher1 = pattern.matcher(s1);
         Matcher matcher2 = pattern.matcher(s2);
         if (matcher1.find() == matcher2.find()) {
