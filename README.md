@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<ul>Options
+ <li>maven</li>
+ <li>GIT</li>
+ </ul>
 <ul>⚡Java 
  <li>SE</li>
  <li>core</li> 
