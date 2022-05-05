@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 <br>
 <ul>⚡Spring core:
  <li>Spring MVC</li>
+ <li>Spring REST API</li>
  <li>Spring Boot</li>
  <li>Spring Mail</li>
  <li>Spring Security</li>
