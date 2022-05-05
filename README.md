@@ -14,13 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Java SE, Java core, Spring core
-Spring MVC
-Spring Boot
-Spring Mail
-Spring Security
-Spring Data JPA
-BD: 
+⚡Java SE, Java core, 
+⚡Spring core:
+ Spring MVC
+ Spring Boot
+ Spring Mail
+ Spring Security
+ Spring Data JPA
+⚡BD: 
  MSSQL H2 MySQL
-Front: 
+⚡Front: 
  Html/css, freemarker, bootstrap 5
