@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ⚡Java SE, Java core, 
+<br>
 ⚡Spring core:
  Spring MVC
  Spring Boot
