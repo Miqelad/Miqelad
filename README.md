@@ -16,13 +16,17 @@ Here are some ideas to get you started:
 -->
 ⚡Java SE, Java core, 
 <br>
-⚡Spring core:
- Spring MVC
- Spring Boot
- Spring Mail
- Spring Security
- Spring Data JPA
-⚡BD: 
- MSSQL H2 MySQL
-⚡Front: 
- Html/css, freemarker, bootstrap 5
+<ul>⚡Spring core:
+
+ <li>Spring MVC</li>
+ <li>Spring Boot</li>
+ <li>Spring Mail</li>
+ <li>Spring Security</li>
+ <li>Spring Data JPA</li>
+ </ul>
+ <br>
+<ul>⚡BD: </ul>
+ <li>MSSQL H2 MySQL</li>
+ <br>
+<ul>⚡Front:</ul> 
+ <li>Html/css, freemarker, bootstrap 5</li>
