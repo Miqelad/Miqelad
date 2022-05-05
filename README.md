@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-⚡Java SE, Java core, 
+<ul>⚡Java 
+ <li>SE</li>
+ <li>core</li> 
 <br>
 <ul>⚡Spring core:
-
  <li>Spring MVC</li>
  <li>Spring Boot</li>
  <li>Spring Mail</li>
@@ -26,7 +27,11 @@ Here are some ideas to get you started:
  </ul>
  <br>
 <ul>⚡BD: </ul>
- <li>MSSQL H2 MySQL</li>
+ <li>MSSQL</li>
+ <li>H2</li>
+ <li>MySQL</li>
  <br>
 <ul>⚡Front:</ul> 
- <li>Html/css, freemarker, bootstrap 5</li>
+ <li>Html/css</li>
+ <li>freemarker</li>
+ <li>bootstrap 5</li>
