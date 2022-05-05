@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <ul>⚡Java 
  <li>SE</li>
  <li>core</li> 
+ </ul>
 <br>
 <ul>⚡Spring core:
  <li>Spring MVC</li>
@@ -26,12 +27,14 @@ Here are some ideas to get you started:
  <li>Spring Data JPA</li>
  </ul>
  <br>
-<ul>⚡BD: </ul>
+<ul>⚡BD: 
  <li>MSSQL</li>
  <li>H2</li>
  <li>MySQL</li>
+ </ul>
  <br>
-<ul>⚡Front:</ul> 
+<ul>⚡Front:
  <li>Html/css</li>
  <li>freemarker</li>
  <li>bootstrap 5</li>
+</ul> 
