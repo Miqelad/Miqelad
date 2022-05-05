@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<ul>Options
+<ul>⚡Options
  <li>maven</li>
  <li>GIT</li>
  </ul>
