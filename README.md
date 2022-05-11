@@ -27,6 +27,7 @@ Here are some ideas to get you started:
  <li>Spring MVC</li>
  <li>Spring REST API</li>
  <li>Spring Boot</li>
+ <li>Spring Actuator</li>
  <li>Spring Mail</li>
  <li>Spring Security</li>
  <li>Spring Data JPA</li>
