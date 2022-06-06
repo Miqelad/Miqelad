@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 <ul>⚡Options
  <li>maven</li>
  <li>GIT</li>
+ <li>Docker</li>
  </ul>
 <ul>⚡Java 
  <li>SE</li>
